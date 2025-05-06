@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Liyao/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Liyao/cv/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -405,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/Liyao/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-cyclops-is-accepted-by-nsdi-2024",
+          title: 'Cyclops is accepted by NSDI 2024.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-ohmscanner-is-accepted-by-mobicom-2025",
+          title: 'OhmScanner is accepted by MobiCom 2025.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/Liyao/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-passed-my-oqe-exam",
+          title: 'I passed my OQE exam.',
           description: "",
           section: "News",},{id: "projects-smartlens",
           title: 'SmartLens',
