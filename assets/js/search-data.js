@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Liyao/publications/";
           },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Liyao/projects/";
-          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
@@ -407,22 +400,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-passed-my-oqe-exam",
           title: 'I passed my OQE exam.',
           description: "",
-          section: "News",},{id: "projects-smartlens",
-          title: 'SmartLens',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/Liyao/projects/1_project/";
-            },},{id: "projects-cyclops",
-          title: 'Cyclops',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/Liyao/projects/2_project/";
-            },},{id: "projects-ohmscanner",
-          title: 'OhmScanner',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/Liyao/projects/3_project/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
