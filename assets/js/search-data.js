@@ -38,12 +38,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/Liyao/books/the_godfather/";
-            },},{id: "news-cyclops-is-accepted-by-nsdi-2024",
+      },{id: "news-cyclops-is-accepted-by-nsdi-2024",
           title: 'Cyclops is accepted by NSDI 2024.',
           description: "",
           section: "News",},{id: "news-ohmscanner-is-accepted-by-mobicom-2025",
@@ -51,6 +46,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-passed-my-oqe-exam",
           title: 'I passed my OQE exam.',
+          description: "",
+          section: "News",},{id: "news-our-work-ohmsense-has-been-awarded-the-artifacts-available-artifacts-evaluated-funtional-reusable-badges",
+          title: 'Our work OhmSense has been awarded the Artifacts Available, Artifacts Evaluated Funtional/Reusable badges....',
           description: "",
           section: "News",},{
         id: 'social-email',
