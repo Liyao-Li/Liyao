@@ -27,6 +27,8 @@ latest_posts:
 ---
 
 I am a Ph.D. candidate in the Department of Computer Science and Engineering at the State University of New York at Buffalo, co-advised by Prof. <a href='https://xieyaxiongfly.github.io/'>Yaxiong Xie</a> and Prof. <a href='https://cse.buffalo.edu/~wenyaoxu/'>Wenyao Xu</a>.
-I am in [ NExt-generation MObile-network (NEMO) lab@UB](https://xieyaxiongfly.github.io/people/).
+I am in [ NExt-generation MObile-network (NEMO) lab](https://xieyaxiongfly.github.io/people/) and [ESC Group](https://cse.buffalo.edu/~wenyaoxu/esc.html) at UB.
 
 My research interests include wireless communications, backscatter communications, smart health and internet of things.
+
+My work has been published in conferences including MobiCom and NSDI. Please feel free to check my publications, and I am always happy to answer any questions or discuss potential collaborations. You can contact me through my email(liyao@buffalo.edu).
