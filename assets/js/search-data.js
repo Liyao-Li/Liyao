@@ -50,6 +50,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-ohmsense-has-been-awarded-the-artifacts-available-artifacts-evaluated-funtional-reusable-badges",
           title: 'Our work OhmSense has been awarded the Artifacts Available, Artifacts Evaluated Funtional/Reusable badges....',
           description: "",
+          section: "News",},{id: "news-our-work-orbweaver-has-been-accepted-by-mobicom-2026",
+          title: 'Our work OrbWeaver has been accepted by MobiCom 2026.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
