@@ -31,4 +31,4 @@ I am in [ NExt-generation MObile-network (NEMO) lab](https://xieyaxiongfly.githu
 
 My research interests include wireless communications, backscatter communications, smart health and internet of things.
 
-My work has been published in conferences including MobiCom and NSDI. Please feel free to check my publications, and I am always happy to answer any questions or discuss potential collaborations. You can contact me through my email(liyao@buffalo.edu).
+My work has been published in conferences including MobiCom and NSDI. Please feel free to check my publications, and I am always happy to answer any questions or discuss potential collaborations. You can contact me through my email(liyaoli@buffalo.edu).
