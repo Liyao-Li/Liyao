@@ -281,6 +281,9 @@ progress {
   font: inherit;
   -webkit-appearance: button;
 }
+output {
+  display: inline-block;
+}
 summary {
   display: list-item;
   cursor: pointer;
@@ -341,6 +344,11 @@ hr {
 small {
   font-size: 0.875em;
   font-weight: 400;
+}
+.mark,
+mark {
+  padding: 0.2em;
+  background-color: #fcf8e3;
 }
 .blockquote {
   margin-bottom: 1rem;
@@ -1002,6 +1010,13 @@ a.btn.disabled {
   background-color: #e9ecef;
   border-radius: 0.25rem;
 }
+.pagination {
+  display: -ms-flexbox;
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  border-radius: 0.25rem;
+}
 .badge {
   display: inline-block;
   padding: 0.25em 0.4em;
@@ -1619,6 +1634,15 @@ a.close.disabled {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border: 0;
+}
+.sr-only-focusable:active,
+.sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  overflow: visible;
+  clip: auto;
+  white-space: normal;
 }
 .w-100 {
   width: 100% !important;

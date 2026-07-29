@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Liyao/publications/";
           },
+        },{id: "nav-project",
+          title: "project",
+          description: "Research projects from NEMO Lab.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/Liyao/project/";
+          },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -53,8 +60,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-orbweaver-has-been-accepted-by-mobicom-2026",
           title: 'Our work OrbWeaver has been accepted by MobiCom 2026.',
           description: "",
-          section: "News",},{id: "news-i-passed-my-dissertation-proposal",
-          title: 'I passed my dissertation proposal.',
+          section: "News",},{id: "news-i-passed-my-dissertation-proposal-defence",
+          title: 'I passed my dissertation proposal defence.',
           description: "",
           section: "News",},{
         id: 'social-email',
