@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed my dissertation proposal.
+I passed my dissertation proposal defence.
