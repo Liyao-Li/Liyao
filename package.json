@@ -1,7 +1,7 @@
 {
   "devDependencies": {
-    "@shopify/prettier-plugin-liquid": "^1.4.0",
-    "prettier": "^3.1.1"
+    "@shopify/prettier-plugin-liquid": "1.11.0",
+    "prettier": "3.9.6"
   },
   "name": "liyao",
   "version": "1.0.0",
