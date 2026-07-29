@@ -53,6 +53,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-work-orbweaver-has-been-accepted-by-mobicom-2026",
           title: 'Our work OrbWeaver has been accepted by MobiCom 2026.',
           description: "",
+          section: "News",},{id: "news-i-passed-my-dissertation-proposal",
+          title: 'I passed my dissertation proposal.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
