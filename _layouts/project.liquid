@@ -3,13 +3,12 @@
   <head>
     <meta charset="utf-8">
     <meta name="description" content="{{ page.description | default: site.description }}">
-    <meta property="og:title" content="{{ page.title | capitalize }} | {{ site.title }}" />
+    <meta property="og:title" content="A Battery-Free, Lightweight Wearable Platform Enabled by Material–Antenna Co-Design | {{ site.title }}" />
     <meta property="og:description" content="{{ page.description | default: site.description }}" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>
-      {{ page.title | capitalize }}
-      |
+      A Battery-Free, Lightweight Wearable Platform Enabled by Material–Antenna Co-Design |
       {{ site.title }}
     </title>
     <link rel="icon" type="image/x-icon" href="{{ '/assets/project/images/favicon.ico' | relative_url }}">
@@ -39,6 +38,9 @@
         font-weight: 600;
         color: #3273dc;
       }
+      .video-title {
+        margin-bottom: 0.75rem;
+      }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script defer src="{{ '/assets/project/js/fontawesome.all.min.js' | relative_url }}"></script>
@@ -58,7 +60,7 @@
         <div class="container is-max-desktop">
           <div class="columns is-centered">
             <div class="column has-text-centered">
-              <h1 class="title is-1 publication-title">Academic Project Page</h1>
+              <h1 class="title is-2 publication-title">A Battery-Free, Lightweight Wearable Platform Enabled by Material–Antenna Co-Design</h1>
               <div class="is-size-5 publication-authors">
                 <span class="author-block">
                   <a href="https://xieyaxiongfly.github.io/people/" target="_blank" rel="noopener noreferrer">NEMO Lab</a><sup>*</sup>,
@@ -77,15 +79,15 @@
       <div class="container">
         <div class="columns">
           <div class="column has-text-centered">
-            <p class="title is-6">SmartLens</p>
+            <p class="title is-4 video-title">SmartLens</p>
             <iframe width="100%" height="200" src="https://www.youtube.com/embed/eUcwNbV5yrA" frameborder="0" allowfullscreen></iframe>
           </div>
           <div class="column has-text-centered">
-            <p class="title is-6">Cyclops</p>
+            <p class="title is-4 video-title">Cyclops</p>
             <iframe width="100%" height="200" src="https://www.youtube.com/embed/ZOHj9Pn0QDI" frameborder="0" allowfullscreen></iframe>
           </div>
           <div class="column has-text-centered">
-            <p class="title is-6">OhmScanner</p>
+            <p class="title is-4 video-title">OhmScanner</p>
             <iframe width="100%" height="200" src="https://www.youtube.com/embed/4XWiHM4ST8A" frameborder="0" allowfullscreen></iframe>
           </div>
         </div>
