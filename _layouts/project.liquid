@@ -41,6 +41,13 @@
       .video-title {
         margin-bottom: 0.75rem;
       }
+      .video-column {
+        margin-bottom: 1.5rem;
+      }
+      .publication-video {
+        margin: 0 auto;
+        max-width: 100%;
+      }
     </style>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script defer src="{{ '/assets/project/js/fontawesome.all.min.js' | relative_url }}"></script>
@@ -77,18 +84,45 @@
 
     <section class="section">
       <div class="container">
-        <div class="columns">
-          <div class="column has-text-centered">
+        <div class="columns is-multiline is-centered">
+          <div class="column is-one-third-desktop is-half-tablet has-text-centered video-column">
             <p class="title is-4 video-title">SmartLens</p>
-            <iframe width="100%" height="200" src="https://www.youtube.com/embed/eUcwNbV5yrA" frameborder="0" allowfullscreen></iframe>
+            <div class="publication-video">
+              <iframe
+                src="https://www.youtube.com/embed/eUcwNbV5yrA"
+                title="SmartLens demo video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
           </div>
-          <div class="column has-text-centered">
+          <div class="column is-one-third-desktop is-half-tablet has-text-centered video-column">
             <p class="title is-4 video-title">Cyclops</p>
-            <iframe width="100%" height="200" src="https://www.youtube.com/embed/ZOHj9Pn0QDI" frameborder="0" allowfullscreen></iframe>
+            <div class="publication-video">
+              <iframe
+                src="https://www.youtube.com/embed/ZOHj9Pn0QDI"
+                title="Cyclops demo video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
           </div>
-          <div class="column has-text-centered">
+          <div class="column is-one-third-desktop is-half-tablet has-text-centered video-column">
             <p class="title is-4 video-title">OhmScanner</p>
-            <iframe width="100%" height="200" src="https://www.youtube.com/embed/4XWiHM4ST8A" frameborder="0" allowfullscreen></iframe>
+            <div class="publication-video">
+              <iframe
+                src="https://www.youtube.com/embed/4XWiHM4ST8A"
+                title="OhmScanner demo video"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin"
+                allowfullscreen
+              ></iframe>
+            </div>
           </div>
         </div>
       </div>
