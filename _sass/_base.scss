@@ -787,6 +787,12 @@ footer.sticky-bottom {
         }
       }
 
+      .author-note {
+        color: var(--global-text-color-light);
+        font-size: 0.9rem;
+        margin-bottom: 0.35rem;
+      }
+
       .links {
         a.btn {
           color: var(--global-text-color);
