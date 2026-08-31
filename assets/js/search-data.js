@@ -63,6 +63,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-passed-my-dissertation-proposal-defence",
           title: 'I passed my dissertation proposal defence.',
           description: "",
+          section: "News",},{id: "news-our-work-argus-has-been-conditionally-accepted-to-sensys-2027-congrats-to-linghui",
+          title: 'Our work Argus has been conditionally accepted to SenSys 2027. Congrats to Linghui!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
