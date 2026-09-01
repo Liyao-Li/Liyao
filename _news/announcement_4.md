@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work OhmSense has been awarded the Artifacts Available, Artifacts Evaluated Funtional/Reusable badges.
+Our work OhmScanner has been awarded the Artifacts Available, Artifacts Evaluated Funtional/Reusable badges.
